@@ -97,3 +97,10 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+My project/Library/
+My project/UserSettings/
+My project/Temp/
+My project/ProjectSettings/
+My project/Assets/TutorialInfo/
+My project/Assets/Settings/
+My project/Packages/
